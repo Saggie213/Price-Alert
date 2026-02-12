@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src=""C:\Users\SOUGATA\Downloads\Screenshot 2026-02-12 114828.png"" alt="Project Banner">
+    <img src="public/images/banner.png" alt="Project Banner">
   <br />
 
   <div>
