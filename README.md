@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <img src="public/images/banner.png" alt="Project Banner">
   <br />
 
   <div>
